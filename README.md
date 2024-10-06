@@ -12,3 +12,4 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 Commit #1 on 2024-10-05
+Commit #2 on 2024-10-06
